@@ -11,3 +11,9 @@ This is a code repository for the Mini Amazon shopping App. It allows you to put
 This is a fully functional eCommerce application using commerce.js.
 
 The repositpry has been developed using some advanced React and Javascript concepts. It also shows you how to use Stripe for card transactions.
+
+## Technology Stack
+
+## Vision of the project
+
+## Stage of the project
